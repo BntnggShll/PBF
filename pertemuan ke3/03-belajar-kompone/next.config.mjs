@@ -1,8 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    images:{
-        domains:["imgur.com"],
+    reactStrictMode: true,
+    images: {
+      domains: ['i.imgur.com'],
     },
-};
-
-export default nextConfig;
+  };
+  
+  export default nextConfig;
