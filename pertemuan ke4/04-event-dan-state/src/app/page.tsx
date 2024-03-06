@@ -1,5 +1,6 @@
 "use client";
 import Tombol_1, { Tombol_2, Tombol_3 } from "@/components/button";
+import Form, { Form_2 } from "@/components/form";
 import Gallery from "@/components/gallery";
 
 export default function home() {
@@ -22,6 +23,10 @@ export default function home() {
 
       <br></br>
       <Gallery />
+      <br></br>
+      <Form />
+      <br></br>
+      <Form_2 />
     </>
   );
 }
