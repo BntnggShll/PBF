@@ -46,6 +46,7 @@ Halaman Todo 1
 Halaman Todo 2
 ![Todo-2_1](images/praktek3Todo2_1.png)
 ![Todo-2_2](images/praktek3Todo2_2.png)
+![perbaikan_Todo](images/praktek3Todo2fixed.png)
 
 
 Praktikum 4: Navigasi dengan Link Component
